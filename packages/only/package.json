@@ -1,6 +1,6 @@
 {
   "name": "ol-only",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "I just like golang's struct tag.",
   "main": "index.js",
   "repository": "minosss/ol",
