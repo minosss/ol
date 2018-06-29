@@ -1,4 +1,4 @@
-# struct-tag-plug
+# ol-only
 
 [![](https://img.shields.io/npm/v/ol-only.svg)](https://www.npmjs.com/package/ol-only)
 [![](https://img.shields.io/npm/dm/ol-only.svg)](https://www.npmjs.com/package/ol-only)
@@ -24,7 +24,7 @@ npm i ol-only
 * `json`: `(name),[omitempty],[type]`, eg: `json:"foo,omitempty"`
 
 ```js
-const only = require('@ol/only')
+const only = require('ol-only')
 
 let p = {}
 p.user = {
