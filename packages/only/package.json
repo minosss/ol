@@ -1,6 +1,6 @@
 {
   "name": "@shayin/only",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "I just like golang's struct tag.",
   "main": "index.js",
   "repository": "minosss/shayin",
