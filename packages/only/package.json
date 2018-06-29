@@ -8,5 +8,8 @@
     "url": "https://github.com/minosss/shayin/issues"
   },
   "author": "mino <minoscc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
