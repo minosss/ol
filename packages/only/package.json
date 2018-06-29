@@ -1,11 +1,11 @@
 {
-  "name": "ol-only",
+  "name": "@shayin/only",
   "version": "0.1.2",
   "description": "I just like golang's struct tag.",
   "main": "index.js",
-  "repository": "minosss/ol",
+  "repository": "minosss/shayin",
   "bugs": {
-    "url": "https://github.com/minosss/ol/issues"
+    "url": "https://github.com/minosss/shayin/issues"
   },
   "author": "mino <minoscc@gmail.com>",
   "license": "MIT"

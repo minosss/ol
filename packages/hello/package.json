@@ -1,8 +1,11 @@
 {
-  "name": "@idrako/hello",
-  "version": "0.0.1",
+  "name": "@shayin/hello",
+  "version": "0.1.0",
   "description": "n/a",
   "main": "index.js",
-  "author": "mino <minoscc+dev@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mino",
   "license": "MIT"
 }
