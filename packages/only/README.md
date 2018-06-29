@@ -1,7 +1,7 @@
 # struct-tag-plug
 
-[![](https://img.shields.io/npm/v/@ol/only.svg)](https://www.npmjs.com/package/struct-tag-plug)
-[![](https://img.shields.io/npm/dm/@ol/only.svg)](https://www.npmjs.com/package/struct-tag-plug)
+[![](https://img.shields.io/npm/v/ol-only.svg)](https://www.npmjs.com/package/ol-only)
+[![](https://img.shields.io/npm/dm/ol-only.svg)](https://www.npmjs.com/package/ol-only)
 
 I just like golang's struct tag.
 
