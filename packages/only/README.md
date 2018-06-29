@@ -10,7 +10,7 @@ I just like golang's struct tag.
 ## install
 
 ```
-npm i @ol/only
+npm i ol-only
 ```
 
 ## options
