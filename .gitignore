@@ -67,3 +67,5 @@ typings/
 .serverless
 
 /__tests__/
+
+.DS_Store
