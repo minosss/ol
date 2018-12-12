@@ -1,0 +1,21 @@
+{
+  "name": "@shayin/validator",
+  "version": "0.0.1",
+  "description": "简单的验证，类似laravel的表单验证",
+  "main": "index.js",
+  "repository": "minosss/shayin",
+  "bugs": {
+    "url": "https://github.com/minosss/shayin/issues"
+  },
+  "author": "mino <minoscc+dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "lodash.concat": "^4.5.0"
+  }
+}
